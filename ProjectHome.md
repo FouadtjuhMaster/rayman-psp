@@ -1,0 +1,3 @@
+A Rayman fangame created for the Sony Playstation Portable with homebrew development. The engine imitates the original Rayman game design.
+
+Project hosting has been restored, after Equilibrium369, the original author, decided to try deleting every traces of all his work, possibly due to emotional issues or complexities in his life. PowerPatrick, Chilly Willy and Phoebius will continue to take care of this project. Any other developers willing to contribute, are absolutely welcome too.
